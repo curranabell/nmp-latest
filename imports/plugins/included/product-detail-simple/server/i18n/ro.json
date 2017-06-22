@@ -1,0 +1,17 @@
+[{
+  "i18n": "ro",
+  "ns": "product-detail-simple",
+  "translation": {
+    "product-detail-simple": {
+      "admin": {
+        "settings": {
+          "productDetailsLabel": "Detalii produs"
+        },
+        "inventoryAlerts": {
+          "adjustedQuantity": "Cantitatea dvs. de produs a fost ajustat la cantitatea maximă în stoc"
+        }
+      },
+      "availableOptions": "Opțiuni disponibile"
+    }
+  }
+}]

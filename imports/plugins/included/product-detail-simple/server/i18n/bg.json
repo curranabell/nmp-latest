@@ -1,0 +1,17 @@
+[{
+  "i18n": "bg",
+  "ns": "product-detail-simple",
+  "translation": {
+    "product-detail-simple": {
+      "admin": {
+        "settings": {
+          "productDetailsLabel": "информация за продукта"
+        },
+        "inventoryAlerts": {
+          "adjustedQuantity": "Вашият продукт количество бе коригиран до макс количество на склад"
+        }
+      },
+      "availableOptions": "Налични варианти"
+    }
+  }
+}]

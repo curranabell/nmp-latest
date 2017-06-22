@@ -1,0 +1,17 @@
+[{
+  "i18n": "it",
+  "ns": "product-detail-simple",
+  "translation": {
+    "product-detail-simple": {
+      "admin": {
+        "settings": {
+          "productDetailsLabel": "Dettagli del prodotto"
+        },
+        "inventoryAlerts": {
+          "adjustedQuantity": "La vostra quantità di prodotto è stato adattato per la quantità massima in magazzino"
+        }
+      },
+      "availableOptions": "Opzioni disponibili"
+    }
+  }
+}]

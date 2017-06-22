@@ -1,0 +1,17 @@
+[{
+  "i18n": "el",
+  "ns": "product-detail-simple",
+  "translation": {
+    "product-detail-simple": {
+      "admin": {
+        "settings": {
+          "productDetailsLabel": "λεπτομέρειες προιόντος"
+        },
+        "inventoryAlerts": {
+          "adjustedQuantity": "ποσότητα του προϊόντος σας έχει ρυθμιστεί στο μέγιστο ποσότητα στο απόθεμα"
+        }
+      },
+      "availableOptions": "διαθέσιμες Επιλογές"
+    }
+  }
+}]

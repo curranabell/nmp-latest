@@ -1,0 +1,17 @@
+[{
+  "i18n": "vi",
+  "ns": "product-detail-simple",
+  "translation": {
+    "product-detail-simple": {
+      "admin": {
+        "settings": {
+          "productDetailsLabel": "Thông tin chi tiết sản phẩm"
+        },
+        "inventoryAlerts": {
+          "adjustedQuantity": "số lượng sản phẩm của bạn đã được điều chỉnh theo số lượng tối đa trong kho"
+        }
+      },
+      "availableOptions": "Tùy chọn có sẵn"
+    }
+  }
+}]

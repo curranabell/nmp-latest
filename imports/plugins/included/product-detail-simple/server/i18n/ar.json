@@ -1,0 +1,17 @@
+[{
+  "i18n": "ar",
+  "ns": "product-detail-simple",
+  "translation": {
+    "product-detail-simple": {
+      "admin": {
+        "settings": {
+          "productDetailsLabel": "تفاصيل المنتج"
+        },
+        "inventoryAlerts": {
+          "adjustedQuantity": "تم تعديل كمية المنتج الخاص بك إلى الكمية القصوى في الأوراق المالية"
+        }
+      },
+      "availableOptions": "خيارات متاحة"
+    }
+  }
+}]
